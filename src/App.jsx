@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import Form from './components/form/Form.jsx'
-import SecondForm from './components/form2/secondForm.jsx'
+import SecondForm from './components/form2/SecondForm.jsx'
 import Password from './components/password/Password.jsx'
 import Color from './components/color/Color.jsx'
 import PersonalForm from './components/personalForm/PersonalForm.jsx'
